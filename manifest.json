@@ -18,7 +18,7 @@
         "all": "packs/animation.pack.hot01.all.v1.bin"
       },
       "checksums": {
-        "all": "02e4d422462410f13ca37d9a79babb5d372058853bcecacebb5dffce5a81be3b"
+        "all": "e6a17096442e2cb326c559c7b72581f7749d0d9440a5decd13176302d6025e83"
       }
     },
     {
@@ -39,8 +39,8 @@
         "zh-Hans": "packs/dare.pack.overseas01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "0e99cb3e1b3931cd9e686a75b34782897ab6dd3fdc65dc30e7999d6078022a84",
-        "zh-Hans": "30eb29cabaf9f58aacc02bb05dd4cf821ab04723313efcef6ac82e88165d4156"
+        "en": "d97bcdaf7fd3c1efdc066d2a86a7d9c63cec7b1e82d09c4564a91ec4fc7cea6b",
+        "zh-Hans": "427a415d666e19654ddea8a309c4feac8fb74b7b0500bb629a5134d287a0fbd4"
       }
     },
     {
@@ -61,8 +61,8 @@
         "zh-Hans": "packs/deepDare.pack.pro01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "56018adeabf2583bf26faffcec4b836ec0b23b5f374dd93a6c04e2827288846f",
-        "zh-Hans": "548b0a5ae9cf89245478fbf2ad076ed00ec374b34dd436cc7e2ea66312c5112d"
+        "en": "3080e0acf1b918b725962bcc820283907cb5ff9f5e1224b8b038a5e2d0f15db2",
+        "zh-Hans": "c7775b3a6c6878c02da66b4b915800350879d5e007d29490d4f51fc535bb807b"
       }
     },
     {
@@ -83,8 +83,8 @@
         "zh-Hans": "packs/deepTruth.pack.pro01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "9ff3cd39ba8970493472e954cfdf1d37c4f522fe0bfd8aaf1bf8aacca438848f",
-        "zh-Hans": "8e9fb7fa042a04e81cb6b8e58d2a027248ee590440f0b08c7190785da760363f"
+        "en": "6e15d56604cf340a2aea36a0620450bd8c64f19d9936e683d7c2730c3e0b03b7",
+        "zh-Hans": "64aaa2c854fc2088aa003d131d6d66ec901c136659d726d4ed5200b30fb5c06a"
       }
     },
     {
@@ -105,13 +105,13 @@
         "zh-Hans": "packs/truth.pack.overseas01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "13e31123b2fbfac2b1a931c335469c627da422d70b71ae3c4082ac9cb3434da3",
-        "zh-Hans": "48f49cb1e73b1e4ea1c7bb2fa9b06562edb1dbe2976a6556b6a9fcbf95a7f97c"
+        "en": "77d24cbdc998acb355da60dda8f55bce1a8820ca76c4b6a6308c4522e08d4f1c",
+        "zh-Hans": "65fcfc33f2aed6ce9bbdeec0fbf4f9f1c497449b1272f37693b5a6c2b79cca23"
       }
     }
   ],
   "flags": {
-    "lottieEnabled": false,
+    "lottieEnabled": true,
     "boldEnabled": false
   }
 }
