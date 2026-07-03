@@ -6,7 +6,7 @@
       "id": "animation.pack.hot01",
       "gameType": "animation",
       "level": null,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.4.0",
       "tier": "pro",
       "locales": [
@@ -15,10 +15,10 @@
       "title": "Hot Animations Pack",
       "summary": "More intense mood animations for Pro. On-device, blends into results.",
       "files": {
-        "all": "packs/animation.pack.hot01.all.v1.bin"
+        "all": "packs/animation.pack.hot01.all.v2.bin"
       },
       "checksums": {
-        "all": "78fa6c2b093a3061d297b8b42bfd2ffd483b9e357fd39d0d4ae9118dc959ddef"
+        "all": "a8d814a2d8a7c08a7a8c6869e6ab4f36480b50735d1cfdda3896f94f5e64bd3d"
       }
     },
     {
@@ -39,8 +39,8 @@
         "zh-Hans": "packs/dare.pack.overseas01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "921d8ce4f12ffb52eb8f31b21f849ed24ea144d39a3ed7d36d28a5ae21cbafcf",
-        "zh-Hans": "947b56f9a0a0cb6a2d2639fc756c4c748ab65b499fded9962754ca274290a847"
+        "en": "9f0699c0091bd13149d1c05a67c80ed33922f30b9fc8685ca0d1607d1f8610bd",
+        "zh-Hans": "a6f96270bc538c48f2c943e9018aa4da45be79e2c1da2ea1b176f71a4ef50eb3"
       }
     },
     {
@@ -61,8 +61,8 @@
         "zh-Hans": "packs/deepDare.pack.pro01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "9bbc67634af392dcc4114a0c2d0784bef23aaf7eca042e89e364afca7a2c4139",
-        "zh-Hans": "cb1e341d7613aaca5ef380cd0cbb7dad537d87c8e7392e13f3d47e42dcffe516"
+        "en": "891fee36101a295ddc5217e71744d727d364230f1836eb71e586038754ca87f9",
+        "zh-Hans": "a32633cb80658e37d5f564c67b2f6349c6d9ad6f02c1f57a34922335c31db1dc"
       }
     },
     {
@@ -83,8 +83,8 @@
         "zh-Hans": "packs/deepTruth.pack.pro01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "dc8f2407aa6505f099708cbcc1c7c365ff7d7cc3b97562cdb3c2e8bec6c705a8",
-        "zh-Hans": "d6327465669222c18fb2f53e66c9a5a511dd1f92d2570ad378a0bd1f2541ca3d"
+        "en": "9e8bf248b4a3b2bde071ab3dcb8e2d57a8ee4b70a9819414d5ce7778cd867404",
+        "zh-Hans": "f3a8d958efdadce3fe50ac74d6824e0a512746fb5e11e42f3c7002f623eb3d13"
       }
     },
     {
@@ -105,8 +105,8 @@
         "zh-Hans": "packs/truth.pack.overseas01.zh-Hans.v1.bin"
       },
       "checksums": {
-        "en": "6fe3328aa243810b94e1c2a33709f719fac5e155c14dd53a12565b2b70677099",
-        "zh-Hans": "745ea67d38c2815fc1c5d57b7da8e3916fd80a4b3d780aaaf35c2373eebcfc69"
+        "en": "e36bc59e8a03f61fd050ff6ab63896987f6e0f81f7f8e5cde38c4f6fd19e2f38",
+        "zh-Hans": "4017ac2792dd6d7f8fb4246eec6a402b76f28a79f953188ccd52c72904141426"
       }
     }
   ],
